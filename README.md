@@ -71,7 +71,4 @@ Future versions of this project may include:
 
 **Patrick Njuguna**
 
-Hospitality Professional | Aspiring Data Analyst
-
-Kenya
 
