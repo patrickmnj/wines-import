@@ -16,7 +16,7 @@ The dataset contains 2024 wine import information obtained from the World Integr
 
 The main data file used in this project is:
 
-`WITS-By-HS6Product .csv`
+WITS-By-HS6Product .csv
 
 The analysis focuses on wine-related trade data and explores patterns in imports by trading partner and product.
 
@@ -50,14 +50,13 @@ The project is also part of my journey toward developing practical skills in Pyt
 
 ## Project Structure
 
-```text
 Wine_importsdata/
 │
 ├── WITS-By-HS6Product .csv
 ├── main.py
 ├── README.md
 └── ...
-```
+
 
 ## Future Improvements
 
