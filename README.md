@@ -50,12 +50,10 @@ The project is also part of my journey toward developing practical skills in Pyt
 
 ## Project Structure
 
-Wine_importsdata/
-│
-├── WITS-By-HS6Product .csv
-├── main.py
-├── README.md
-└── ...
+-Wine_importsdata
+-WITS-By-HS6Product .csv
+- main.py
+-README.md
 
 
 ## Future Improvements
